@@ -16,6 +16,7 @@ The following environment variables are defined in the Azure App Service for con
 
 - `API_USERNAME`: Username for Basic authentication
 - `API_PASSWORD`: Password for Basic authentication
+- `API_URL`: The URL of the deployed Minimal API
 
 ## Usage
 
